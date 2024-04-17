@@ -47,7 +47,6 @@ public class Picnic {
         } catch (IOException e) {
             e.printStackTrace();
         }
-
         return list;
     }
 
