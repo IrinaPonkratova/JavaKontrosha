@@ -22,6 +22,7 @@ import java.util.*;
 слово встречается в файле. Подумайте об этом как о подсчете того,
 какие фрукты и овощи самые популярные на вашем пикнике!
  */
+
 public class Picnic {
     public static void main(String[] args) {
         List<String> dataList = readFileToList("input.txt");
