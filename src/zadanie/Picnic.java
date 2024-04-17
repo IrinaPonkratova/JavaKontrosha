@@ -46,7 +46,6 @@ public class Picnic {
         return list;
     }
 
-
     public static int countStroki(ArrayList<String> lol) {
         return lol.size();
     }
