@@ -35,6 +35,7 @@ public class Picnic {
         wordFrequency((ArrayList<String>) dataList);
     }
 
+
     public static List<String> readFileToList(String fileName) {
         List<String> list = new ArrayList<>();
 
