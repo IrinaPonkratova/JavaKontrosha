@@ -33,7 +33,6 @@ public class Picnic {
         System.out.println("Количество слов: " + countStroki((ArrayList<String>) dataList));
         System.out.println("Самое длинное слово: " + longestWord((ArrayList<String>) dataList));
         wordFrequency((ArrayList<String>) dataList);
-
     }
 
     public static List<String> readFileToList(String fileName) {
