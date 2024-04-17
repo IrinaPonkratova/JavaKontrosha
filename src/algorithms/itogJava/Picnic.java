@@ -75,6 +75,7 @@ public class Picnic {
         return arr;
     }
 
+
     public static void wordFrequency(ArrayList<String> lol) {
         Map<String, Integer> map = new HashMap<>();
         for (String item : lol) {
