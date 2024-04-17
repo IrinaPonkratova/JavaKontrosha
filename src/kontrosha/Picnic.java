@@ -25,7 +25,6 @@ import java.util.*;
 public class Picnic {
     public static void main(String[] args) {
         List<String> dataList = readFileToList("input.txt");
-
         System.out.println("Data from file:");
         for (String data : dataList) {
             System.out.println(data);
